@@ -1,3 +1,4 @@
+![](https://github.com/deandrasatriyosetiawan/movie-list-app/blob/main/Moli.png)
 # Moli - Movie List Mobile App
 ## Description
 This repository is where my first mobile app project are stored. I worked on this app for 3 days, from 21 January to 23 January 2023. This movie list mobile app developed using Dart programming language and Flutter framework. Moli provides list of movies based on trending, top rated, and genre. The list of genre movies in this app are action, adventure, animation, comedy, family, fantasy, horror, mystery, romance, and thriller.
