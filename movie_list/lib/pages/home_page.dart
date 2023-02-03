@@ -440,7 +440,7 @@ class _HomePageState extends State<HomePage> {
                                             const EdgeInsets.only(bottom: 2)),
                                   ),
                                   child: const Text(
-                                    "mistery",
+                                    "mystery",
                                     style: TextStyleManager
                                         .genreButtonDarkTextStyle,
                                   ),

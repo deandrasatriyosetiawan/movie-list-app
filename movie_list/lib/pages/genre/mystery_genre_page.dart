@@ -20,7 +20,7 @@ class _MysteryGenrePageState extends State<MysteryGenrePage> {
   List? mysteryGenreMovie;
   static const String mysteryGenreId = "9648";
 
-  Future<void> getJsonMisteryGenreMovieData(BuildContext context) async {
+  Future<void> getJsonMysteryGenreMovieData(BuildContext context) async {
     var response = await http
         .get(
       Uri.parse(
@@ -43,7 +43,7 @@ class _MysteryGenrePageState extends State<MysteryGenrePage> {
   }
 
   Future<void> _getRefreshData() async {
-    await getJsonMisteryGenreMovieData(context);
+    await getJsonMysteryGenreMovieData(context);
   }
 
   @override
