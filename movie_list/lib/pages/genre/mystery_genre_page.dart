@@ -76,7 +76,7 @@ class _MysteryGenrePageState extends State<MysteryGenrePage> {
                           width: 59,
                         ),
                         const Text(
-                          "Mistery Genre",
+                          "Mystery Genre",
                           style: TextStyleManager.headerTextStyle,
                         ),
                       ],

@@ -14,7 +14,7 @@ abstract class RouteName {
   static const familyGenrePage = "/family-genre-page";
   static const fantasyGenrePage = "/fantasy-genre-page";
   static const horrorGenrePage = "/horror-genre-page";
-  static const misteryGenrePage = "/mistery-genre-page";
+  static const mysteryGenrePage = "/mystery-genre-page";
   static const romanceGenrePage = "/romance-genre-page";
   static const thrillerGenrePage = "/thriller-genre-page";
 }

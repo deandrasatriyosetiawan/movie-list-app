@@ -432,7 +432,7 @@ class _HomePageState extends State<HomePage> {
                                         const Color(ColorManager.iceberg)),
                                 child: TextButton(
                                   onPressed: () {
-                                    Get.toNamed(RouteName.misteryGenrePage);
+                                    Get.toNamed(RouteName.mysteryGenrePage);
                                   },
                                   style: ButtonStyle(
                                     padding:

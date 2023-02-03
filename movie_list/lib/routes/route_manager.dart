@@ -15,7 +15,7 @@ import "/pages/genre/comedy_genre_page.dart";
 import "/pages/genre/family_genre_page.dart";
 import "/pages/genre/fantasy_genre_page.dart";
 import "/pages/genre/horror_genre_page.dart";
-import '/pages/genre/mystery_genre_page.dart';
+import "/pages/genre/mystery_genre_page.dart";
 import "/pages/genre/romance_genre_page.dart";
 import "/pages/genre/thriller_genre_page.dart";
 
@@ -82,7 +82,7 @@ class RouteManager {
       page: () => const HorrorGenrePage(),
     ),
     GetPage(
-      name: RouteName.misteryGenrePage,
+      name: RouteName.mysteryGenrePage,
       page: () => const MysteryGenrePage(),
     ),
     GetPage(
